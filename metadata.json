@@ -1,0 +1,6 @@
+{
+  "name": "SmartMail AI",
+  "description": "Intelligent email management and task automation agent. Automatically classifies emails, generates concise summaries, extracts actionable tasks with deadlines, and drafts smart replies using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
